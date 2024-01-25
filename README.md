@@ -1,7 +1,13 @@
 ### Bem-vindo! Eu sou Gabriel Macedo Mello.
+Tenho 21 anos e estou trilhando meu caminho no mundo da tecnologia.
 
-- Estudante de Ciência da Computação na UERJ-ZO
-- Estudante de Engenharia de Software na Unesa
+Desde cedo, me apaixonei pelo universo da computação, e essa paixão me levou a me formar como Técnico em Informática. Durante essa jornada, participei de uma equipe de Robótica onde realizei alguns projetos utilizando Arduino.
+
+Atualmente, sou estudante de Ciência da Computação na UERJ-ZO (Universidade do Estado do Rio de Janeiro - Zona Oeste) e Engenharia de Software na UNESA (Universidade Estácio de Sá).
+
+Organização, criatividade e dedicação são os meus principais pontos fortes. Gosto de criar cronogramas para nunca deixar nenhuma tarefa para trás.
+
+##
 
 <div>
   <a href="https://github.com/GMMello">
@@ -17,6 +23,8 @@
   <img alingn="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img alingn="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img alingn="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alingn="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  
 </div>
 
 ##
