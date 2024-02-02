@@ -12,7 +12,7 @@ Organização, criatividade e dedicação são os meus principais pontos fortes.
 <div>
   <a href="https://github.com/GMMello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GMMello&show_icons=true&title_color=67a8f5&text_color=f5f5f5&bg_color=000000&hide_border&icon_color=67a8f5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMMello&layout=compact&langs_count=16&show_icons=true&locale=pt-br&title_color=67a8f5&text_color=f5f5f5&bg_color=000000&hide_border&icon_color=67a8f5"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMMello&layout=compact&langs_count=16&show_icons=true&locale=pt-br&title_color=67a8f5&text_color=f5f5f5&bg_color=000000&hide_border&icon_color=67a8f5"/>-->
 </div>
 
 <div style="display: inline_block"><br>
